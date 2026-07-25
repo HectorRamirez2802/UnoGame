@@ -1,0 +1,23 @@
+# Carpetas generadas al compilar
+build/
+dist/
+nbbuild/
+nbdist/
+
+# Configuración privada de NetBeans (específica de tu máquina)
+nbproject/private/
+
+# Archivos compilados de Java
+*.class
+
+# Logs
+*.log
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de IDEs (por si usas otro además de NetBeans)
+.idea/
+*.iml
+.vscode/
